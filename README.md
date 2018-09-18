@@ -22,3 +22,5 @@ Van Der Merwe, D. W.; Engelbrecht, AP., "Data clustering using particle swarm op
 Evolutionary Computation, 2003. CEC '03. The 2003 Congress on , vol.1, no., pp.215,220 Vol.1, 8-12 Dec. 2003
 doi: 10.1109/CEC.2003.1299577
 URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1299577&isnumber=28874
+
+A short tutorial related to this implementation is available here: https://arxiv.org/abs/1809.01942
