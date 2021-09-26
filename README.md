@@ -4,7 +4,7 @@ pso-clustering
 PSO-Clustering algorithm [Matlab code]
 
 Author:  Augusto Luis Ballardini
-Email:   augusto.ballardini@disco.unimib.it
+Email:   augusto.ballardini@unimib.it or trigal@gmail.com
 Website: http://www.ira.disco.unimib.it/people/ballardini-augusto-luis/
 
 This library is distributed in the hope that it will be useful,
